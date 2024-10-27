@@ -20,7 +20,7 @@ function AboutUs() {
               <div className="relative h-64 sm:h-80 lg:h-full">
                 <img
                   alt=""
-                  src=".././public/about-bg.webp"
+                  src="/public/about-bg.webp"
                   className="absolute inset-0 h-full w-full object-cover"
                 />
               </div>
