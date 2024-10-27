@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom'
 function AboutUs() {
   return (
     <>
-      <section className="text-white bg-slate-900 bg-[url('.././public/hero-bg.webp')] bg-center">
+      <section className="text-white bg-slate-900 bg-[url('/public/hero-bg.webp')] bg-center">
         <div className="mx-auto max-w-screen-xl px-4 py-32 lg:flex  lg:items-center">
           <div className="mx-auto max-w-3xl text-center">
             <h1 className="bg-gradient-to-r from-indigo-100 via-blue-500 to-green-300 bg-clip-text text-3xl font-extrabold text-transparent sm:text-5xl">
